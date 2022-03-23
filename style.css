@@ -1,0 +1,23 @@
+body { 
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right: 15%;
+    max-width: 600px;
+    background-color: rgb(131, 78, 78);
+    
+    text-align: justify;
+    font-family: "Andalé Mono", monospace;
+    font-size: medium;
+    color: rgb(207, 172, 132);
+    border-image-width: 30%;
+
+}
+
+h1 {
+    font-family: Didot, serif;
+    font-size: 40px;
+}
+
+h3 {
+    text-decoration: underline;
+}
